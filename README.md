@@ -1,1 +1,2 @@
-"Lauren Ruff" 
+Lauren Ruff
+ruffl@oregonstate.edu
